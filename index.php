@@ -1,4 +1,4 @@
 <?
-    echo "Bonjour à tous";
+    echo "Bonjour";
 
 ?>
